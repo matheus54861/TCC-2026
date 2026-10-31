@@ -12,7 +12,7 @@ print("=" * 60)
 print("\nEscolha qual Inteligência Artificial deseja testar:")
 print("1 - Google Gemini")
 print("2 - Meta Llama")
-print("3 - Mistral 7B")
+print("3 - Anthropic")
 
 escolha = input("\nDigite o número da opção desejada (1, 2 ou 3): ").strip()
 
