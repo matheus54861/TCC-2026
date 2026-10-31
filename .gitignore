@@ -1,0 +1,9 @@
+# Ambiente Virtual
+venv/
+
+# Ficheiros de configuração com chaves de API sensíveis
+config.py
+
+# Ficheiros temporários do Python
+__pycache__/
+*.pyc

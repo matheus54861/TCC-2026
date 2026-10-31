@@ -1,0 +1,23 @@
+MÓDULO DE TRIAGEM: Fisioterapia Musculoesquelética
+ESPECIALIDADES ATENDIDAS: Coluna Vertebral, Ombro, Cotovelo, Punho, Quadril, Joelho e Tornozelo.
+
+SINTOMAS E QUEIXAS CHAVE:
+Dor (muscular, discal, articular, ligamentar), formigamento, queimação, edema, sensação de peso, perda de movimento e perda de força.
+
+PERGUNTAS OBRIGATÓRIAS DE INVESTIGAÇÃO (ANAMNESE):
+1. Alterações nas atividades de vida diária.
+2. Como é a dor (sensação: queimação, pontada, peso, fisgada).
+3. Se a dor é constante durante o dia inteiro ou vai e vem.
+4. Qual posição ou movimento faz a dor piorar ou melhorar.
+
+MATRIZ DE ENCAMINHAMENTO:
+- Caso musculoesquelético padrão: Encaminhar para Fisioterapeuta Musculoesquelético.
+- Suspeita estrutural ou necessidade de exames de imagem: Encaminhar para Ortopedista.
+
+SINAIS DE ALERTA / URGÊNCIA (RED FLAGS):
+- Em casos extremos ou dor insuportável: Orientar ir ao Pronto Atendimento (PA) para avaliação de emergência e medicação analgésica/intravenosa.
+- Suspeita de causas sistêmicas graves (ex: dor irradiada por câncer, pedra no rim, alterações uroginecológicas): Orientar avaliação médica com urgência.
+
+SINTOMAS DE EXCLUSÃO (ENCAMINHAMENTO PARA UBS / MÉDICO DA FAMÍLIA):
+Dor no peito, dor ao urinar, perda de equilíbrio, náusea, alterações na pele, tontura, alterações oculares, alterações cardiovasculares, alterações neurológicas, sintomas respiratórios, alterações uroginecológicas.
+-> Diretriz: Informar que a queixa não é musculoesquelética pura e orientar bateria de exames laboratoriais/imagem em Unidade Básica de Saúde (UBS) ou clínica médica.
