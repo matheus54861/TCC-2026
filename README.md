@@ -50,7 +50,7 @@ OPENROUTER_API_KEY = "sua-chave-do-openrouter-aqui"
 MODELOS = {
     "1": "google/gemini-3.8-flash",
     "2": "meta-llama/llama-3.1-8b-instruct",
-    "3": "mistralai/mistral-7b-instruct",
+    "3": "anthropic/claude-haiku-4.5",
 }
 ```
 
