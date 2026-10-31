@@ -30,16 +30,3 @@ Abra o terminal na pasta onde deseja guardar o projeto e execute:
 ```bash
 git clone https://github.com/matheus54861/TCC-2026.git
 cd TCC-2026
-
-2. Criar Arquivo de Configuração (config.py)
-Crie um arquivo chamado config.py na raiz do projeto com o seguinte conteúdo:
-
-Python
-# config.py
-OPENROUTER_API_KEY = "sua-chave-do-openrouter-aqui"
-
-MODELOS = {
-    "1": "google/gemini-3.8-flash",
-    "2": "meta-llama/llama-3.1-8b-instruct",
-    "3": "mistralai/mistral-7b-instruct",
-}
