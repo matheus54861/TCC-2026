@@ -34,7 +34,7 @@ Abra o terminal na pasta onde deseja guardar o projeto e execute:
 git clone [https://github.com/matheus54861/TCC-2026.git](https://github.com/matheus54861/TCC-2026.git)
 cd TCC-2026
 
-### 2. Criar Arquivo de Configuração (confg.py)
+2. Criar Arquivo de Configuração (confg.py)
 Crie um arquivo chamado config.py na raiz do projeto com o seguinte conteúdo:
 # config.py
 OPENROUTER_API_KEY = "sua-chave-do-openrouter-aqui"
