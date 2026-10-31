@@ -15,12 +15,9 @@ O projeto é modularizado nos seguintes arquivos principais:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-Python (Linguagem principal)
-
-OpenAI SDK / OpenRouter API (Orquestração de modelos de IA)
-
-Git & GitHub (Controle de versão e versionamento de código)
+- **Python** (Linguagem principal)
+- **OpenAI SDK / OpenRouter API** (Orquestração de modelos de IA)
+- **Git & GitHub** (Controle de versão e versionamento de código)
 
 ---
 
@@ -28,14 +25,16 @@ Git & GitHub (Controle de versão e versionamento de código)
 
 Para rodar este repositório localmente sem erros, siga os passos abaixo:
 
-1. Clonar o Repositório
+### 1. Clonar o Repositório
 Abra o terminal na pasta onde deseja guardar o projeto e execute:
 ```bash
-git clone [https://github.com/matheus54861/TCC-2026.git](https://github.com/matheus54861/TCC-2026.git)
+git clone https://github.com/matheus54861/TCC-2026.git
 cd TCC-2026
 
-2. Criar Arquivo de Configuração (confg.py)
+2. Criar Arquivo de Configuração (config.py)
 Crie um arquivo chamado config.py na raiz do projeto com o seguinte conteúdo:
+
+Python
 # config.py
 OPENROUTER_API_KEY = "sua-chave-do-openrouter-aqui"
 
@@ -44,21 +43,3 @@ MODELOS = {
     "2": "meta-llama/llama-3.1-8b-instruct",
     "3": "mistralai/mistral-7b-instruct",
 }
-
-### 3. Configurar o Ambiente Virtual
-Crie um ambiente virtual para isolar as dependências do projeto:
-
-No Windows (PowerShell):
-
-python -m venv venv
-.\venv\Scripts\activate
-
-### 4.Instalar as Dependências
-Com o ambiente virtual ativo, instale a biblioteca de comunicação com a API no terminal do Vscode:
-
-pip install openai
-
-### 5. Executar o Sistema
-Com tudo configurado, basta iniciar a aplicação:
-
-python main.py
