@@ -30,3 +30,7 @@ Abra o terminal na pasta onde deseja guardar o projeto e execute:
 ```bash
 git clone https://github.com/matheus54861/TCC-2026.git
 cd TCC-2026
+
+### 2. Criar Arquivo de Configuração (config.py)
+Crie um arquivo chamado config.py na raiz do projeto com o seguinte conteúdo:
+
