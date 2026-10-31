@@ -28,13 +28,11 @@ Git & GitHub (Controle de versão e versionamento de código)
 
 Para rodar este repositório localmente sem erros, siga os passos abaixo:
 
-### 1. Clonar o Repositório
+1. Clonar o Repositório
 Abra o terminal na pasta onde deseja guardar o projeto e execute:
 ```bash
 git clone [https://github.com/matheus54861/TCC-2026.git](https://github.com/matheus54861/TCC-2026.git)
 cd TCC-2026
-
----
 
 2. Criar Arquivo de Configuração (confg.py)
 Crie um arquivo chamado config.py na raiz do projeto com o seguinte conteúdo:
